@@ -7,10 +7,13 @@ This project is a machine learning-based recommendation engine designed for an e
 # 📂 Dataset
 
 We used a publicly available dataset from Kaggle that contains transactions from a UK-based online retail store.
+We used a publicly available dataset containing historical transactional data from an online retail store.
 
-- 📊 **Dataset Title**: [Online Retail Dataset](https://www.kaggle.com/datasets/vijayuv/onlineretail)
-- 📄 **File Used**: `data.csv`
+📊 Dataset Title: E-Commerce Dataset - Online Retail
 
+📥 Download Link: https://www.kaggle.com/datasets/vijayuv/onlineretail
+
+📄 File Used: archive.zip → data.csv
 The dataset includes:
 - Invoice information
 - Product descriptions
